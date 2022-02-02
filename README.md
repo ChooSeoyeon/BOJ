@@ -1,3 +1,3 @@
 # BOJ
 
-Learn Algorithm with C++
+Problem Solving with Algorithms and Data Structures using C++
