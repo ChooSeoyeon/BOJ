@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1fa47bcb-47a4-40af-96a7-11618a8c5fc9}</ProjectGuid>
-    <RootNamespace>My10828스택review</RootNamespace>
+    <ProjectGuid>{fba0a8a8-31fe-473d-b634-5be17e34f760}</ProjectGuid>
+    <RootNamespace>My1085직사각형에서탈출</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
